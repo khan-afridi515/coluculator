@@ -1,0 +1,52 @@
+
+button{
+    padding:8px 8px;
+    width:40px;
+    height:40px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:5px;
+}
+
+#equal{
+    width:84px;
+  
+}
+
+.row{
+    gap:5px;
+    margin-left:1px;
+}
+
+
+.flex{
+    display:flex;
+}
+
+.items-center{
+    align-items:center;
+}
+
+.flex-col{
+    flex-direction:column;
+  
+}
+
+.form-control{
+    display:inline-block;
+    margin-top:30px;
+    margin-bottom:17px;
+    width:176px;
+    text-align:end;
+    font-size:19px;
+}
+
+
+
+.ali{
+    border:2px solid gray;
+    padding:20px 10px;
+    background-color:dimgrey;
+    border-radius:8px;
+}
